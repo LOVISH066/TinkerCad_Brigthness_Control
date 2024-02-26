@@ -1,1 +1,1 @@
-# TinkerCad_Brigthness_Control
+# TinkerCad Brigthness Control
